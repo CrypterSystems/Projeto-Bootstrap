@@ -1,0 +1,19 @@
+
+/*Estilos própios*/
+
+.box-fix{
+    position: relative;
+    top: 60px;
+}
+
+section.bg-top{
+    width: 100%;
+    min-height: 600px;
+    background-image: url(/images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-link{
+    margin: 0;
+}  
